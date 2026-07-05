@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Better xCloud
+// @name         BetterXCl
 // @namespace    https://github.com/redphx
 // @version      6.7.10
 // @description  Improve Xbox Cloud Gaming (xCloud) experience
